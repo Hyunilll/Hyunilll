@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---------------
-Tech Stack
+### Tech Stack 👋
 -------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunilll&show_icons=true&theme=gruvbox)
 
