@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunilll&show_icons=true&theme=gruvbox)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Htunilll&repo=AmusementPark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Htunilll&repo=AmusementParkk)]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
