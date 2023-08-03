@@ -3,7 +3,8 @@
 
 -------------
 ### ⚡ Tech Stack ⚡
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=Black"/><img src="https://img.shields.io/badge/javaScript-F7DE1E?style=flat&logo=JavaScript&logoColor=Black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=Black"/>
+<img src="https://img.shields.io/badge/javaScript-F7DE1E?style=flat&logo=JavaScript&logoColor=Black"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=Black"/>
 
 -------------
