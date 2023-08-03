@@ -1,5 +1,6 @@
 ### 😄 Who is Hyunil Choi 😄
-
+현재 자바(JAVA)기반 AWS 클라우드 활용 풀스택 개발자 과정을 수강중이며,
+더 많은 경험과 도전을 통해 하루하루 성장하는 개발자가 되기 위해 노력중입니다. 
 
 -------------
 ### ⚡ Tech Stack ⚡
@@ -10,8 +11,11 @@
 
 
 -------------
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunilll&show_icons=true&theme=gruvbox)
 
 -------------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
